@@ -5,7 +5,6 @@
         "./src/database/migrations/*.ts"
     ],
     "cli": {
-        "migrationDir": "./src/database/migrations/*.ts"
-
+        "migrationsDir": "./src/database/migrations"
     }
 }
